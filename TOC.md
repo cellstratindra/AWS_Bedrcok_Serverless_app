@@ -1,3 +1,4 @@
+
 ## Python Syntax Review
 
 *●* Review basic Python syntax
@@ -69,3 +70,7 @@
 *●* Working with a context manager: contextlib.closing, enter and exit
 
 *●* Using contextlib.contextmanager
+
+### Follow PEP Guide: https://pep8.org/  for instructions & recommendations
+
+
