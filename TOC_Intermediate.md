@@ -95,3 +95,11 @@
 | hypot = x*x + y*y | hypot = x * x + y * y |
 | i = i + 1 | i=i+1|
 
+
+#### Python Usecases 
+
+*●* Network automation
+*●* Web Development
+*●* Data Science
+*●* Machine Learning
+*●* Generative Ai
